@@ -176,6 +176,5 @@ public class automine implements Listener, CommandExecutor {
         if(playerchestMap.containsKey(event.getPlayer())){
             removePlayer(event.getPlayer());
         }
-        event.setQuitMessage("The player has gone!");
     }
 }
