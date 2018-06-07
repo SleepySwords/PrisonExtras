@@ -1,0 +1,35 @@
+  destroyBlock:
+  - IRON_ORE
+  - DIAMOND_ORE
+  - STONE
+  - QUARTZ_ORE
+  - EMERALD_ORE
+  - REDSTONE_ORE
+  - COAL_ORE
+  - GOLD_ORE
+  - DIRT
+  - LAPIS_ORE
+allowKillAnimals:
+  - COW
+  - CHICKEN
+  - SHEEP
+  - PIG
+items:
+  redstone:
+    to: redstone_block
+    quantity: 9
+  diamond:
+      to: diamond_block
+      quantity: 9
+  gold_ingot:
+      to: gold_block
+      quantity: 9
+  iron_ingot:
+      to: iron_block
+      quantity: 9
+  coal:
+        to: coal_block
+        quantity: 9
+  lapis:
+        to: lapis_block
+        quantity: 9

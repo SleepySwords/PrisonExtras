@@ -1,0 +1,21 @@
+name: prisonExtra
+version: 1.0
+main: me.crystal_dragon2.prsison
+author: cryguin
+depend: [Vault, Votifier]
+commands:
+  block:
+    usage: /block
+    description: block
+  EnchantExplode:
+    usage: /EnchantExplode <Enchant level>
+    description: EnchantExplode
+  miner:
+    usage: /EnchantExplode <Enchant level>
+    description: AutoMining Test Please Ignore!
+  select:
+    usage: /select
+    description: select
+  giveTime:
+      usage: /giveTime
+      description: giveTime
